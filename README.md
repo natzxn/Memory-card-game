@@ -8,4 +8,4 @@ Preview of the game:
 
 <img src="https://github.com/natzxn/Memory-card-game/blob/main/images/preview.PNG?raw=true" alt=preview1>
 
-<img src="./images/preview2" alt=preview2>
+<img src="https://github.com/natzxn/Memory-card-game/blob/main/images/preview2.PNG?raw=true" alt=preview2>
