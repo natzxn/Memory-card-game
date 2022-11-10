@@ -6,6 +6,6 @@ In the future, a maximum time limit for completing a task will be added to the g
 
 Preview of the game: 
 
-<img src="./images/preview" alt=preview1>
+<img src="https://github.com/natzxn/Memory-card-game/blob/main/images/preview.PNG?raw=true" alt=preview1>
 
 <img src="./images/preview2" alt=preview2>
